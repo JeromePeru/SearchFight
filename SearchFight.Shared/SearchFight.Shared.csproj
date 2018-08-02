@@ -44,7 +44,6 @@
   <ItemGroup>
     <Compile Include="Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QueryResult.cs" />
     <Compile Include="SearchEngineException.cs" />
     <Compile Include="Tools.cs" />
   </ItemGroup>

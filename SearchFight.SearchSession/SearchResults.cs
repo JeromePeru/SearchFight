@@ -1,4 +1,4 @@
-﻿using SearchFight.Shared;
+﻿using SearchFight.SearchSessionLib;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -23,7 +23,6 @@ namespace SearchFight.SearchSession
                 return searchResultsByQuery;
             }
         }
-
 
         public Dictionary<string, List<QueryResult>> SearchResultsByEngine
         {

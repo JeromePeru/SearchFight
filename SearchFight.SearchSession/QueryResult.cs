@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SearchFight.Shared
-{
+namespace SearchFight.SearchSessionLib
+{ 
     public class QueryResult
     {
         public string SearchEngineName { get; set; }
