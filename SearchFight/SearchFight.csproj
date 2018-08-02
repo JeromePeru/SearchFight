@@ -53,6 +53,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\SearchFight.Contract\SearchFight.Contract.csproj">
+      <Project>{6b6a9baa-e0b2-46ac-9a5a-9b6758ed2d68}</Project>
+      <Name>SearchFight.Contract</Name>
+    </ProjectReference>
     <ProjectReference Include="..\SearchFight.SearchSession\SearchFight.SearchSession.csproj">
       <Project>{efd8ebfe-6bb5-452c-9125-bf92ad0f7099}</Project>
       <Name>SearchFight.SearchSession</Name>

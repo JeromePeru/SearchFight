@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="SearchEngineProvider.cs" />
     <Compile Include="QueryResult.cs" />
     <Compile Include="SearchResults.cs" />
     <Compile Include="SearchSession.cs" />
